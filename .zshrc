@@ -37,7 +37,11 @@ export NVM_DIR="$HOME/.nvm"
 [ -s "$NVM_DIR/nvm.sh" ] && \. "$NVM_DIR/nvm.sh"  # This loads nvm
 [ -s "$NVM_DIR/bash_completion" ] && \. "$NVM_DIR/bash_completion"  # This loads nvm bash_completion
 <<<<<<< HEAD
+<<<<<<< HEAD
 # 00000000
 =======
 # xxxxxx
 >>>>>>> 36fd244... aaaaaaaa
+=======
+# xxxxxx-ffff
+>>>>>>> 73ddf76... bbbb
